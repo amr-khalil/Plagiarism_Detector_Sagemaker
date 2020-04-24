@@ -27,3 +27,5 @@ This project will be broken down into three main notebooks:
 * Define a binary classification model and a training script.
 * Train your model and deploy it using SageMaker.
 * Evaluate your deployed classifier.
+
+![Example](https://github.com/amr-khalil/Plagiarism_Detector_Sagemaker/blob/master/notebook_ims/common_subseq_words.png)
