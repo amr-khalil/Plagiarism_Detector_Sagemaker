@@ -1,5 +1,5 @@
-# Machine Learning, Deployment Case Studies with AWS SageMaker
 # Plagiarism Project, Machine Learning Deployment
+**Machine Learning, Deployment Case Studies with AWS SageMaker**
 
 This repository contains code and associated files for deploying a plagiarism detector using AWS SageMaker.
 
